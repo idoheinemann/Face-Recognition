@@ -1,0 +1,1 @@
+python3 svm_recognizer.py
